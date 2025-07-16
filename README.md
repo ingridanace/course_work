@@ -9,15 +9,15 @@
 - A conclusion and a suggestions.
 
 *Dependencies*
-- pandas for data manipulation
-- numpy for numerical operation
-- seaborn for data visualization
-- plotly.express for interactive data visualization
-- matplotlib.pyplot for static data visualization
-- zipfile to unzip the dataset file
-- sqlite3 to read the .sqlite file
-- re for pattern matching and searching with text using regex.
-- spicy.tests to conduct statistical tests
+- **pandas** for data manipulation
+- **numpy** for numerical operation
+- **seaborn** for data visualization
+- **plotly.express** for interactive data visualization
+- **matplotlib.pyplot** for static data visualization
+- **zipfile** to unzip the dataset file
+- **sqlite3** to read the .sqlite file
+- **re** for pattern matching and searching with text using regex.
+- **spicy.tests** to conduct statistical tests
 
 ## chess.py 
 *What you will find in this Python file*
@@ -25,3 +25,26 @@
 
 *Dependencies*
 - tabulate 
+
+## Data_Visualization_with_Python_Project.ipynb
+
+*What you will find in this Jupyter notebook*
+- Load and explore the dataset to understand its structure.
+- Perform data cleaning by handling missing values, removing duplicates, and treating outliers.
+- Conduct basic exploratory data analysis (EDA).
+- Visualize key findings
+- Write a conclusion and suggestions.
+
+# Dependencies
+- **pandas** for data manipulation
+- **numpy** for numerical operation
+- **seaborn** for data visualization
+- **plotly.express** for interactive data visualization
+- **matplotlib.pyplot** for static data visualization
+
+# What you will find in this notebook
+- Loading and exploring the dataset to understand its structure.  
+- Performing **data cleaning** by handling missing values, removing duplicates, and treating outliers.  
+- Conducting basic **exploratory data analysis (EDA)**.
+- Key findings visualizations
+- A conclusion and a suggestions.
