@@ -1,7 +1,7 @@
 ***Course work examples from studies***
 
-**Project_Mental_Health_in_the_Tech_Industry.ipynb**
-## What you will find in this notebook
+## Project_Mental_Health_in_the_Tech_Industry.ipynb
+*What you will find in this notebook*
 - Loading and exploring the dataset.
 - Performing small data cleaning by handling missing values, detecting duplicates.
 - Conducting basic exploratory data analysis (EDA).
